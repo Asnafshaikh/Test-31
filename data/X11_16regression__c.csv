@@ -1,0 +1,4 @@
+"Guid","Name","Test_Admin_Custom__c"
+315cebbf-0b46-44d3-9887-8d89ff85dd36,fromControlToMain_editedInGithub,false
+a7d7e8de-f812-44c3-a53b-632eaea321ce,fromControlToMainAzure_editedInAzure,false
+d16c0207-165e-43eb-904c-f925bb0e478d,fromControlToMasterBitbucket-editedInBitbucket,false
