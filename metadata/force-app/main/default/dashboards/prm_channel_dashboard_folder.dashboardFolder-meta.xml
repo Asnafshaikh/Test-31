@@ -2,82 +2,82 @@
 <DashboardFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>arazkevich@prodly.co.qa8</sharedTo>
+        <sharedTo>arazkevich@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>alazar@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>aandreou@prodly.co.appopsqa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>agromovskii@prodly.co.qa8</sharedTo>
+        <sharedTo>alazar@prodly.co.appopsqa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>mshaikh@prodly.co.qa8</sharedTo>
+        <sharedTo>drudman@prodly.co.appopsqa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>drudman@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>jjoannow@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>jjoannow@prodly.co.qa8</sharedTo>
+        <sharedTo>lzhdanovich@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>jaagaard@prodly.co.qa8</sharedTo>
+        <sharedTo>mmalanowski@prodly.co.appopsqa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>mmalanowski@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>mpowell@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>mrudman@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>mshaikh@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>rwheeler@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>npain@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>rkhlebnov@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>rwheeler@prodly.co.qa3a</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>sbrodin@prodly.co.qa8</sharedTo>
+        <sharedTo>svlachakis@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>svlachakis@prodly.co.qa8</sharedTo>
+        <sharedTo>tbedikyan@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>svlachakis@prodly.co.appopsqa8</sharedTo>
+        <sharedTo>asnafshaikhpro@gmail.com.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>tbedikyan@prodly.co.qa8</sharedTo>
+        <sharedTo>tkyprianou@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>tkyprianou@prodly.co.qa8</sharedTo>
+        <sharedTo>aploutarchou@prodly.co.qa3</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <name>PRM Dashboards</name>
